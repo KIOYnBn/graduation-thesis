@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "42e72c7d-5259-4d4c-8a98-30dafdb0aa64",
+  "title": "基于深度无监督学习的单细胞RNA-seq数据分析方法研究",
+  "authors": [
+    "赵舒畅"
+  ],
+  "year": null,
+  "venue": "",
+  "impactFactor": null,
+  "field": "",
+  "tags": [],
+  "importance": 1,
+  "progress": 3,
+  "status": "reading",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-18T12:43:48.276Z",
+  "updatedAt": "2026-11-18T12:55:39.552Z",
+  "lastOpenedAt": "2026-11-18T12:55:37.040Z",
+  "lastViewedAt": "2026-11-18T12:50:10.005Z",
+  "pinned": false,
+  "lastPage": 2,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}
