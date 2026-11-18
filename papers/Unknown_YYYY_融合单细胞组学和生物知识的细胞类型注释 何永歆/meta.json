@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "5f6e1d24-77c0-4b29-9243-267ee865da1f",
+  "title": "融合单细胞组学和生物知识的细胞类型注释",
+  "authors": [
+    "何永歆"
+  ],
+  "year": null,
+  "venue": "硕士学位论文",
+  "impactFactor": null,
+  "field": "",
+  "tags": [],
+  "importance": 1,
+  "progress": 3,
+  "status": "reading",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-18T14:10:58.932Z",
+  "updatedAt": "2026-11-18T14:51:45.210Z",
+  "lastOpenedAt": "2026-11-18T14:51:42.696Z",
+  "lastViewedAt": "2026-11-18T14:50:51.960Z",
+  "pinned": false,
+  "lastPage": 1,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}
