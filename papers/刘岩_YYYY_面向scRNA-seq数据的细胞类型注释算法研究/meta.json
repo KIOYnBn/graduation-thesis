@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "d44decfd-24f2-4aee-86cc-29286e757037",
+  "title": "面向scRNA-seq数据的细胞类型注释算法研究",
+  "authors": [
+    "刘岩"
+  ],
+  "year": 2023,
+  "venue": "博士学位论文",
+  "impactFactor": null,
+  "field": "",
+  "tags": [],
+  "importance": 5,
+  "progress": 3,
+  "status": "done",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-19T01:50:25.167Z",
+  "updatedAt": "2026-11-19T01:56:34.977Z",
+  "lastOpenedAt": "2026-11-19T01:56:29.659Z",
+  "lastViewedAt": "2026-11-19T01:56:29.659Z",
+  "pinned": false,
+  "lastPage": 3,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}
