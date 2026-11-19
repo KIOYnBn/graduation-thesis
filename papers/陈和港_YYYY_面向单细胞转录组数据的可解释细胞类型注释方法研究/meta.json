@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "6b14254e-b354-4485-a441-689ee66f2343",
+  "title": "面向单细胞转录组数据的可解释细胞类型注释方法研究",
+  "authors": [
+    "陈和港"
+  ],
+  "year": 2025,
+  "venue": "",
+  "impactFactor": null,
+  "field": "模型",
+  "tags": [],
+  "importance": 1,
+  "progress": 0,
+  "status": "done",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-19T04:05:09.552Z",
+  "updatedAt": "2026-11-19T04:13:19.961Z",
+  "lastOpenedAt": "2026-11-19T04:12:40.464Z",
+  "lastViewedAt": "2026-11-19T04:12:40.464Z",
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}

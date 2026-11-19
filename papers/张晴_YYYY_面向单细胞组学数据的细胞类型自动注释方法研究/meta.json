@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "b0df49ab-0254-4c7d-8b59-51c04cc120cf",
+  "title": "面向单细胞组学数据的细胞类型自动注释方法研究",
+  "authors": [
+    "张晴"
+  ],
+  "year": 2025,
+  "venue": "",
+  "impactFactor": null,
+  "field": "模型",
+  "tags": [],
+  "importance": 3,
+  "progress": 1,
+  "status": "done",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-19T04:05:28.978Z",
+  "updatedAt": "2026-11-19T04:11:42.833Z",
+  "lastOpenedAt": "2026-11-19T04:11:13.570Z",
+  "lastViewedAt": "2026-11-19T04:11:13.570Z",
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}

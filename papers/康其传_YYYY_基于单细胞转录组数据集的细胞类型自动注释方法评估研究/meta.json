@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "4a1b518b-48f2-4269-ad35-ebd7c1b9b73b",
+  "title": "基于单细胞转录组数据集的细胞类型自动注释方法评估研究",
+  "authors": [
+    "康其传"
+  ],
+  "year": null,
+  "venue": "",
+  "impactFactor": null,
+  "field": "",
+  "tags": [],
+  "importance": 3,
+  "progress": 0,
+  "status": "todo",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-19T04:04:43.077Z",
+  "updatedAt": "2026-11-19T04:04:43.077Z",
+  "lastOpenedAt": null,
+  "lastViewedAt": null,
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}

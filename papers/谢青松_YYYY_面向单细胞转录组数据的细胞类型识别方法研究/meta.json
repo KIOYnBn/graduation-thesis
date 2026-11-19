@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "214d6bee-04ae-4a4f-bf37-d3c4d30ef43c",
+  "title": "面向单细胞转录组数据的细胞类型识别方法研究",
+  "authors": [
+    "谢青松"
+  ],
+  "year": 2023,
+  "venue": "",
+  "impactFactor": null,
+  "field": "模型",
+  "tags": [],
+  "importance": 3,
+  "progress": 0,
+  "status": "done",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-19T04:05:18.504Z",
+  "updatedAt": "2026-11-19T04:12:24.668Z",
+  "lastOpenedAt": "2026-11-19T04:11:56.981Z",
+  "lastViewedAt": "2026-11-19T04:11:56.981Z",
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}

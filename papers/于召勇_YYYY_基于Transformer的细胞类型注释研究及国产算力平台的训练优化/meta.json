@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "65f2380c-ead5-4c5b-a8d3-ae8c5bd3bf21",
+  "title": "基于Transformer的细胞类型注释研究及国产算力平台的训练优化",
+  "authors": [
+    "于召勇"
+  ],
+  "year": 2025,
+  "venue": "",
+  "impactFactor": null,
+  "field": "模型",
+  "tags": [],
+  "importance": 3,
+  "progress": 0,
+  "status": "done",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-19T04:03:57.827Z",
+  "updatedAt": "2026-11-19T04:14:50.279Z",
+  "lastOpenedAt": "2026-11-19T04:14:33.928Z",
+  "lastViewedAt": "2026-11-19T04:14:33.928Z",
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}

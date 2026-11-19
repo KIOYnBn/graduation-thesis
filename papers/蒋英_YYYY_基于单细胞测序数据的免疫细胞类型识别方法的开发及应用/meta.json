@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "836a5313-e2a9-4b70-8f6c-17fc55cd0472",
+  "title": "基于单细胞测序数据的免疫细胞类型识别方法的开发及应用",
+  "authors": [
+    "蒋英"
+  ],
+  "year": null,
+  "venue": "",
+  "impactFactor": null,
+  "field": "模型",
+  "tags": [],
+  "importance": 5,
+  "progress": 1,
+  "status": "done",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-19T04:04:08.893Z",
+  "updatedAt": "2026-11-19T04:08:31.179Z",
+  "lastOpenedAt": "2026-11-19T04:08:24.274Z",
+  "lastViewedAt": "2026-11-19T04:08:05.890Z",
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}

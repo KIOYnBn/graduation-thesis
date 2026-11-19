@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "57b2b90a-1b1c-41fc-9ccf-9d372498d17f",
+  "title": "基于单细胞转录组数据的细胞类型注释算法研究",
+  "authors": [
+    "石永乐"
+  ],
+  "year": null,
+  "venue": "",
+  "impactFactor": null,
+  "field": "",
+  "tags": [],
+  "importance": 3,
+  "progress": 0,
+  "status": "todo",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-19T04:04:31.283Z",
+  "updatedAt": "2026-11-19T04:04:31.283Z",
+  "lastOpenedAt": null,
+  "lastViewedAt": null,
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "ca1c2e4d-fbed-4309-89b7-fe7db4d13b43",
+  "title": "基于图注意力网络(GAT)的单细胞类型注释方法研究",
+  "authors": [
+    "孙熠伟"
+  ],
+  "year": null,
+  "venue": "",
+  "impactFactor": null,
+  "field": "",
+  "tags": [],
+  "importance": 3,
+  "progress": 0,
+  "status": "todo",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-19T04:04:52.752Z",
+  "updatedAt": "2026-11-19T04:04:52.752Z",
+  "lastOpenedAt": null,
+  "lastViewedAt": null,
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}

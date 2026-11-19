@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "1fe228e1-679c-4fda-9d7e-73ff2a05f5d4",
+  "title": "基于单细胞转录组测序的细胞类型智能注释方法研究",
+  "authors": [
+    "焦麟钫"
+  ],
+  "year": 2024,
+  "venue": "",
+  "impactFactor": null,
+  "field": "",
+  "tags": [],
+  "importance": 1,
+  "progress": 0,
+  "status": "done",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-19T04:04:20.183Z",
+  "updatedAt": "2026-11-19T04:10:43.517Z",
+  "lastOpenedAt": "2026-11-19T04:10:16.403Z",
+  "lastViewedAt": "2026-11-19T04:10:16.403Z",
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}

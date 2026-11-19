@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "6c77737d-b4b9-4360-ad45-5309f8d65558",
+  "title": "跨物种单细胞细胞类型注释工具开发",
+  "authors": [
+    "陈锐朴"
+  ],
+  "year": 2023,
+  "venue": "",
+  "impactFactor": null,
+  "field": "数据",
+  "tags": [],
+  "importance": 3,
+  "progress": 0,
+  "status": "todo",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-19T04:05:01.215Z",
+  "updatedAt": "2026-11-19T04:14:16.381Z",
+  "lastOpenedAt": "2026-11-19T04:13:45.526Z",
+  "lastViewedAt": "2026-11-19T04:13:45.526Z",
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}
