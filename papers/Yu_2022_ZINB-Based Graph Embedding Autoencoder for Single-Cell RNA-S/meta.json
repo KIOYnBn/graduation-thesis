@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "a5ffab90-dd67-4058-a63f-4a4c38d110ac",
+  "title": "ZINB-Based Graph Embedding Autoencoder for Single-Cell RNA-Seq Interpretations",
+  "authors": [
+    "Zhuohan Yu"
+  ],
+  "year": 2022,
+  "venue": "AAAI",
+  "impactFactor": null,
+  "field": "",
+  "tags": [],
+  "importance": 5,
+  "progress": 0,
+  "status": "todo",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-20T08:34:29.557Z",
+  "updatedAt": "2026-11-20T08:43:06.924Z",
+  "lastOpenedAt": "2026-11-20T08:43:06.924Z",
+  "lastViewedAt": "2026-11-20T08:43:06.924Z",
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}
