@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "a61971af-000b-4b02-ad80-a46b41e48f1d",
+  "title": "Hierarchical progressive learning of cell identities in single-cell data",
+  "authors": [
+    "Lieke Michielsen"
+  ],
+  "year": 2021,
+  "venue": "nature communcations",
+  "impactFactor": 18.1,
+  "field": "",
+  "tags": [],
+  "importance": 3,
+  "progress": 17,
+  "status": "reading",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-20T08:57:46.646Z",
+  "updatedAt": "2026-11-20T08:59:36.147Z",
+  "lastOpenedAt": "2026-11-20T08:59:33.633Z",
+  "lastViewedAt": "2026-11-20T08:57:46.724Z",
+  "pinned": false,
+  "lastPage": 1,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}
