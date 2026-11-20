@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "3fde6e4f-e3d6-473c-ae6e-290edbbf936e",
+  "title": "Organism-scale annotation with Pan-human Azimuth",
+  "authors": [
+    "View ORCID ProfileSourav Sarkar"
+  ],
+  "year": 2026,
+  "venue": "biorxiv",
+  "impactFactor": null,
+  "field": "模型",
+  "tags": [],
+  "importance": 5,
+  "progress": 54,
+  "status": "reading",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-20T10:44:14.443Z",
+  "updatedAt": "2026-11-20T10:53:37.803Z",
+  "lastOpenedAt": "2026-11-20T10:53:07.681Z",
+  "lastViewedAt": "2026-11-20T10:53:07.681Z",
+  "pinned": false,
+  "lastPage": 21,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}
