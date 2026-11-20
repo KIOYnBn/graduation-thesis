@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "7e0e4125-9a7c-41a8-90cb-bbcd4bdd150e",
+  "title": "CellScope high-performance cell atlas workflow with tree-structured representation",
+  "authors": [
+    "Bingjie Li"
+  ],
+  "year": 2025,
+  "venue": "nature communications",
+  "impactFactor": 18.1,
+  "field": "模型",
+  "tags": [],
+  "importance": 5,
+  "progress": 6,
+  "status": "reading",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-20T13:55:09.009Z",
+  "updatedAt": "2026-11-20T14:01:38.321Z",
+  "lastOpenedAt": "2026-11-20T14:01:35.820Z",
+  "lastViewedAt": "2026-11-20T13:55:13.695Z",
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}
