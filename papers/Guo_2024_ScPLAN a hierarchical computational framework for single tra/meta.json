@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "13cf77fa-acb6-4a69-97b8-81234be9629b",
+  "title": "ScPLAN a hierarchical computational framework for single transcriptomics data annotation, integration and cell-type label refinement",
+  "authors": [
+    "Qirui Guo"
+  ],
+  "year": 2024,
+  "venue": "Briefings in Bioinformatics",
+  "impactFactor": 7.89,
+  "field": "模型",
+  "tags": [],
+  "importance": 3,
+  "progress": 0,
+  "status": "done",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-20T08:52:19.521Z",
+  "updatedAt": "2026-11-20T08:56:12.277Z",
+  "lastOpenedAt": "2026-11-20T08:56:05.998Z",
+  "lastViewedAt": "2026-11-20T08:56:05.998Z",
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}
