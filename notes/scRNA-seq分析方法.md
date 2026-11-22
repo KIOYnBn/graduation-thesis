@@ -1,7 +1,7 @@
 ---
 createdAt: 2026-11-18T12:48:37.039Z
 updatedAt: 2026-11-19T14:25:09.719Z
-lastViewedAt: 2026-11-19T14:25:09.751Z
+lastViewedAt: 2026-11-21T09:10:46.185Z
 field: 背景知识
 ---
 # scRNA-seq分析方法

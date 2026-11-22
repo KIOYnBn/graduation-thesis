@@ -1,7 +1,7 @@
 ---
 createdAt: 2026-11-19T10:33:43.332Z
 updatedAt: 2026-11-19T14:25:38.496Z
-lastViewedAt: 2026-11-19T14:25:38.527Z
+lastViewedAt: 2026-11-21T09:10:42.019Z
 field: 背景知识
 ---
 # scRNA-seq数据特征

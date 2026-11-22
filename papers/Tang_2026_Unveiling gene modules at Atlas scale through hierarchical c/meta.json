@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "f34cdb2b-015c-4c2b-baf0-47b515db47fa",
+  "title": "Unveiling gene modules at Atlas scale through hierarchical clustering of single-cell data",
+  "authors": [
+    "Feng Tang"
+  ],
+  "year": 2026,
+  "venue": "nature communcations",
+  "impactFactor": 18.1,
+  "field": "模型",
+  "tags": [],
+  "importance": 3,
+  "progress": 7,
+  "status": "reading",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-20T14:09:46.248Z",
+  "updatedAt": "2026-11-21T03:01:30.206Z",
+  "lastOpenedAt": "2026-11-21T03:01:27.705Z",
+  "lastViewedAt": "2026-11-21T03:01:25.068Z",
+  "pinned": false,
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}
