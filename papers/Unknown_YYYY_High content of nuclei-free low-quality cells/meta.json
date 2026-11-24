@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "5f6f3e38-8087-4069-a3fe-45b5434c03e2",
+  "title": "High content of nuclei-free low-quality cells",
+  "authors": [],
+  "year": null,
+  "venue": "",
+  "impactFactor": null,
+  "field": "",
+  "tags": [],
+  "importance": 3,
+  "progress": 31,
+  "status": "reading",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-22T01:50:25.951Z",
+  "updatedAt": "2026-11-22T01:57:47.712Z",
+  "lastOpenedAt": "2026-11-22T01:57:45.211Z",
+  "lastViewedAt": "2026-11-22T01:55:33.399Z",
+  "pinned": false,
+  "noteName": "High content of nuclei-free low-quality cells.md",
+  "lastPage": 3,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}

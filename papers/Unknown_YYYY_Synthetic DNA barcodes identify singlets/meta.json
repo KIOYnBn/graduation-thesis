@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "378102a6-6299-4108-ad09-cd0479a98699",
+  "title": "Synthetic DNA barcodes identify singlets",
+  "authors": [],
+  "year": null,
+  "venue": "",
+  "impactFactor": null,
+  "field": "",
+  "tags": [],
+  "importance": 3,
+  "progress": 1,
+  "status": "reading",
+  "doi": "",
+  "url": "",
+  "abstract": "",
+  "createdAt": "2026-11-22T01:50:32.372Z",
+  "updatedAt": "2026-11-22T02:04:07.903Z",
+  "lastOpenedAt": "2026-11-22T02:04:05.396Z",
+  "lastViewedAt": "2026-11-22T02:03:59.444Z",
+  "pinned": false,
+  "noteName": "Synthetic DNA barcodes identify singlets.md",
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}

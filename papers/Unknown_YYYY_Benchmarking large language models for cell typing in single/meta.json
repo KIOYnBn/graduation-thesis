@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "id": "67572635-bb39-4310-bbab-fc1cc92fc22d",
+  "title": "Benchmarking large language models for cell typing in single-cell RNA-Seq",
+  "authors": [
+    "Tianxiang Xiao"
+  ],
+  "year": 2025,
+  "venue": "Briefings in Bioinformatics",
+  "impactFactor": null,
+  "field": "",
+  "tags": [],
+  "importance": 1,
+  "progress": 7,
+  "status": "reading",
+  "doi": "",
+  "url": "https://doi.org/10.1093/bib/bbaf677",
+  "abstract": "细胞类型注释的模型性能比较",
+  "createdAt": "2026-11-24T13:35:25.835Z",
+  "updatedAt": "2026-11-24T13:39:16.298Z",
+  "lastOpenedAt": "2026-11-24T13:38:27.402Z",
+  "lastViewedAt": "2026-11-24T13:38:27.402Z",
+  "pinned": false,
+  "noteName": "Benchmarking large language models for cell typing in single-cell RNA-Seq.md",
+  "lastPage": 0,
+  "annotations": [],
+  "annotationStyleVersion": 2,
+  "styles": {
+    "highlight": {
+      "color": "#f2c94c",
+      "opacity": 0.38,
+      "paddingY": 0.04
+    },
+    "underline": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 2,
+      "offset": 0.9
+    },
+    "strikethrough": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    },
+    "note": {
+      "color": "#f2c94c",
+      "opacity": 1,
+      "width": 1.6,
+      "offset": 0.5
+    }
+  }
+}
